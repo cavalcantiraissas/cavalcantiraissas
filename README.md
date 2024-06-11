@@ -1,6 +1,6 @@
 # 👩‍💻 Raissa Cavalcanti
 
-🚀 **Estudante de Ciência da Computação** na Universidade Federal de Mato Grosso (UFMT)
+🚀 **Estudante de Ciência da Computação** na Universidade Federal de Mato Grosso
 🌍 **Nascida em Recife**, atualmente morando no Mato Grosso  
 👩‍💻 **Apaixonada por programação** e sempre em busca de novos desafios e aprendizados
 
