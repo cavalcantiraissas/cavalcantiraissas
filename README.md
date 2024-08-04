@@ -1,5 +1,3 @@
-# 🌟 Raissa Cavalcanti
-
 # **👩‍🎓 Estudante de Ciência da Computação na UFMT**
 
 📊 Participante do Bootcamp de DataAnalytics, oferecido pela WoMakersCode, em parceria com PotênciaTech, Ifood e Microsoft.
