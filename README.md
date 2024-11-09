@@ -1,29 +1,19 @@
-# **👩‍🎓 Estudante de Ciência da Computação na UFMT**
+<h1 align="center">Hi 👋, I'm Raissa Cavalcanti</h1>
+<h3 align="center"> A data analyst and back-end developer from Brazil.</h3>
 
-📊 Participante do Bootcamp de DataAnalytics, oferecido pela WoMakersCode, em parceria com PotênciaTech, Ifood e Microsoft.
----
+- 👩‍🎓 I’m currently studying on **Universidade Federal de Mato Grosso**
 
-## 📚 Experiências Acadêmicas
+- 👩‍💻 I’m currently learning **Data Analytics**
 
-- **Programação 1:** Usando Python.
-- **Programação 2:** Usando C++.
-- **Estrutura de Dados:** Usando C.
+- 📫 How to reach me **cavalcanti.c.raissa@gmal.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cavalcantiraissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavalcantiraissa" height="30" width="40" /></a>
+<a href="https://discord.gg/cavalcantiraissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cavalcantiraissa" height="30" width="40" /></a>
+</p>
 
-## 📜 Cursos Adicionais
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- **Introdução a Programação com Python:** USP.
-- **Python Developer:** Plataforma DIO.
-- **C/C++ Developer:** Plataforma DIO.
-
----
-
-## 🔗 Contatos
-
-- **LinkedIn:** [cavalcantiraissa](https://www.linkedin.com/in/cavalcantiraissa/)
-- **Email:** [Cavalcanti.c.raissa@gmail.com](mailto:Cavalcanti.c.raissa@gmail.com)
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cavalcantiraissas&theme=dark&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcantiraissas&" alt="cavalcantiraissas" /></p>
