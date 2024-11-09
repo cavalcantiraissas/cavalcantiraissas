@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raissa Cavalcanti</h1>
 <h3 align="center"> A data analyst and back-end developer from Brazil.</h3>
 
-- 👩‍🎓 I’m currently studying on **Universidade Federal de Mato Grosso**
+- 👩‍🎓 I’m currently studying Computer Science on **Universidade Federal de Mato Grosso**
 
 - 👩‍💻 I’m currently learning **Data Analytics**
 
