@@ -44,4 +44,14 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/> 
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cavalcantiraissas&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
 <br />
