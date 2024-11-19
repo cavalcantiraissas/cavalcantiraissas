@@ -28,6 +28,14 @@
 <br/>  
 
 
+## Most Using Languages  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantiraissas&layout=compact&hide_border=true" align="center" />
+</div>  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/cavalcantiraissas" target="_blank">
@@ -48,6 +56,7 @@
 <br/> 
 
 <div align="center">
+
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=cavalcantiraissas&theme=default&hide_border=true)](https://git.io/streak-stats)
 
