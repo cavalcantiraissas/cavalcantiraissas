@@ -1,6 +1,6 @@
 ### <div align="center">Hi there! 👋 I'm Raissa </div>
  
----
+--- 
 
 - 🎓 Computer Science Student at the Federal University of Mato Grosso  
 - 🚀 Currently diving into the world of **Data Analysis** through a Bootcamp  
