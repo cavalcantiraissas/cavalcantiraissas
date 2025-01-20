@@ -3,7 +3,6 @@
 --- 
 
 - 🎓 Computer Science Student at the Federal University of Mato Grosso  
-- 🚀 Currently diving into the world of **Data Analysis** through a Bootcamp  
 - 📚 My repositories are filled with activities, projects, and code to help anyone learning to program  
 - 💡 **Goal**: Build impactful solutions using technology. Let’s do this! 
 
