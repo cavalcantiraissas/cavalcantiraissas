@@ -1,60 +1,57 @@
-# Raissa Cavalcanti
+<h2 align="left">Raissa Cavalcanti</h2>
 
-> Ciência de Dados, Inteligência Artificial e Tecnologia para Transformação Social.
+###
 
-Sou estudante de Ciência da Computação pela UFMT, atualmente no 4º período. Minha formação tem como foco a interseção entre **tecnologia, dados e impacto social**. Acredito que conhecimento técnico sem consciência crítica amplia desigualdades — por isso, meu caminho é pela educação, pela análise ética da IA e pelo uso da tecnologia como ferramenta de equidade.
+<p align="left">Ciência de Dados, Inteligência Artificial e Tecnologia para Transformação Social.<br>Sou estudante de Ciência da Computação pela UFMT, atualmente no 4º período. Minha formação tem como foco a interseção entre tecnologia, dados e impacto social. Acredito que conhecimento técnico sem consciência crítica amplia desigualdades — por isso, meu caminho é pela educação, pela análise ética da IA e pelo uso da tecnologia como ferramenta de equidade.</p>
 
----
+###
 
-## 💼 Experiência e Formação
-
-- **Projeto de Extensão – UFMT**  
-  Ensino de informática básica à comunidade de Barra do Garças.  
-  *(Educação popular como eixo de inclusão tecnológica.)*
-
-- **Formação Oracle Next Education + Alura**  
-  Trilha de Data Science & Inteligência Artificial.  
-  *(Modelagem de dados, ETL, Visualização e Machine Learning com Python.)*
-
-- **Projetos pessoais e acadêmicos**  
-  Organização de repositórios abertos com códigos, práticas e reflexões sobre o ensino de computação.
-
----
-
-## 🛠️ Ferramentas & Tecnologias
-
-| Linguagens (com propósito) | Ferramentas & Conhecimentos |
-|----------------------------|------------------------------|
-| Python → Ciência de Dados, IA, Scripts | Git, MySQL, Pandas |
-| C → Estrutura de Dados e Algoritmos Base | Engenharia de Dados, ETL |
-| C++ → Programação Orientada a Objetos | Visualização de Dados (Seaborn, Matplotlib) |
-| R → Estatística e Análise de Dados | SQL, Shell Script, Markdown |
-
----
-
-## 📊 GitHub em Números
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissa&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantiraissa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
----
+###
 
-## 🧠 Pensamento Crítico na Computação
+<br clear="both">
 
-> A tecnologia que ignora a realidade das pessoas, reforça desigualdades.  
-> O conhecimento técnico precisa andar lado a lado com a responsabilidade social.  
-> Não se trata apenas de aprender a programar, mas de entender **por que, para quem e com quais consequências**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcantiraissas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=cavalcantiraissas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## 🌐 Contato
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph.svg">
+</picture>
 
-- [LinkedIn](https://www.linkedin.com/in/cavalcantiraissa/)
-- [Email](mailto:cavalcanti.c.raissa@gmail.com)
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/cavalcantiraissa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cavalcanti.c.raissa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-📌 *Este repositório é um diário público da minha formação. Aqui compartilho códigos, reflexões, ideias e construções inacabadas — porque aprendizado é processo, não produto final.*
+###
+
+<div align="center">
+  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhvMm95OTdlMnRlZjc0enR3a21xNnYxMTRlNHdnMjB1dnBtMzMydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif"  />
+</div>
+
+###
 
