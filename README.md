@@ -3,7 +3,7 @@
 ---
 
 <p align="left">
-Sou estudante de Ciência da Computação pela UFMT, atualmente no 4º período.  
+Sou estudante de Ciência da Computação pela UFMT, atualmente no 5º período.  
 Minha formação tem como foco a interseção entre tecnologia, dados e impacto social.  
 Acredito que conhecimento técnico sem consciência crítica amplia desigualdades —  
 por isso, meu caminho é pela educação, pela análise ética da IA e pelo uso da tecnologia como ferramenta de equidade.
