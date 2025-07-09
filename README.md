@@ -1,17 +1,17 @@
 <h2 align="left">Raissa Cavalcanti | Ciência da Computação · Análise de Dados · Inovação Social</h2>
 
-### 🧠 Sobre mim
+###  Sobre mim
 
 Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT) e entusiasta de tecnologia com propósito. Atuo na interseção entre análise de dados, inovação social e liderança jovem. Acredito no uso ético da tecnologia como força transformadora, e é por isso que me dedico a projetos que unem ciência, impacto social e empatia.
 
-- 💡 Projetos voltados à utilização de tecnologia para facilitar o dia a dia das pessoas   
-- 📊 Ferramentas favoritas: Python, Pandas, ETL, Visualização de Dados
-- 🌍 Vivência internacional com trabalho voluntário e intercâmbio multicultural
-- 💬 Competências-chave: Liderança, Comunicação, Gestão de Projetos e Pensamento Analítico
+-  Projetos voltados à utilização de tecnologia para facilitar o dia a dia das pessoas   
+-  Ferramentas favoritas: Python, Pandas, ETL, Visualização de Dados
+-  Vivência internacional com trabalho voluntário e intercâmbio multicultural
+-  Competências-chave: Liderança, Comunicação, Gestão de Projetos e Pensamento Analítico
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
 
 ---
 
-### 📈 Atividades e Contribuições
+###  Atividades e Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph-dark.svg">
@@ -55,7 +55,7 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
@@ -65,7 +65,7 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
 
 ---
 
-### 🌐 Contato
+###  Contato
 
 <div align="left">
   <a href="mailto:cavalcanti.c.raissa@gmail.com" target="_blank">
