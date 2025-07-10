@@ -1,4 +1,4 @@
-<h2 align="left">Raissa Cavalcanti | Ciência da Computação · Análise de Dados · Inovação Social</h2>
+<h2 align="left">Ciência da Computação · Análise de Dados · Inovação Social</h2>
 
 ###  Sobre mim
 
