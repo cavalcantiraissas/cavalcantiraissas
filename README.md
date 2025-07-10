@@ -2,16 +2,18 @@
 
 ###  Sobre mim
 
-Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT) e entusiasta de tecnologia com propósito. Atuo na interseção entre análise de dados, inovação social e liderança jovem. Acredito no uso ético da tecnologia como força transformadora, e é por isso que me dedico a projetos que unem ciência, impacto social e empatia.
+Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), apaixonada por dados, impacto social e tecnologia com propósito. Atuo na interseção entre ciência, inovação social e liderança jovem.
 
--  Projetos voltados à utilização de tecnologia para facilitar o dia a dia das pessoas   
--  Ferramentas favoritas: Python, Pandas, ETL, Visualização de Dados
--  Vivência internacional com trabalho voluntário e intercâmbio multicultural
--  Competências-chave: Liderança, Comunicação, Gestão de Projetos e Pensamento Analítico
+Atualmente, estou cursando a **Formação Plena em Análise e Ciência de Dados**, com foco em Python, R, Estatística e Machine Learning. Ao longo dessa jornada, desenvolvi projetos práticos com dados reais e criei um repositório para compartilhar minhas soluções, aprendizados e evolução na área.
+
+-  Projetos voltados à tecnologia para facilitar o cotidiano das pessoas  
+-  Favoritos: Python · Pandas · Visualização de Dados · ETL  
+-  Vivência internacional com trabalho voluntário e intercâmbio multicultural  
+-  Habilidades-chave: Pensamento Analítico · Comunicação · Gestão de Projetos · Liderança  
 
 ---
 
-###  Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas
 
 <table>
   <tr>
@@ -24,8 +26,16 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
       <br>Pandas
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+      <br>R
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
       <br>RStudio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+      <br>NumPy
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -42,6 +52,20 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
   </tr>
 </table>
 
+---
+
+###  Formação em Ciência de Dados
+
+Atualmente em andamento:
+
+-  Estatística Descritiva · Probabilidade · Álgebra Linear  
+-  Python, Pandas, ggplot2, dplyr  
+-  Visualização de Dados · Regressão Linear e Não Linear  
+-  Machine Learning: Árvores de Decisão, Random Forest, Redes Neurais  
+-  Aplicações práticas com dados reais e problemas do mundo real  
+
+ Repositório com todos os projetos e códigos:  
+👉 [`Formação Plena em Análise e Ciência de Dados`](https://github.com/cavalcantiraissas/Formacao-Plena_Analise-e-Ciencia-de-Dados)
 
 ---
 
@@ -81,4 +105,3 @@ Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universida
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2MDF4Z21vaHd6Nm41MmJvNnRvZ3drazVoZTFuanF0MDg3MzJuaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" alt="gif final" />
 </div>
-
