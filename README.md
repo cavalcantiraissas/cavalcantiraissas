@@ -2,7 +2,7 @@
 
 ###  Sobre mim
 
-Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), apaixonada por dados, impacto social e tecnologia com propósito. Atuo na interseção entre ciência, inovação social e liderança jovem.
+Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), entusiasta por dados, impacto social e tecnologia com propósito. Atuo na interseção entre ciência, inovação social e liderança jovem.
 
 Atualmente, estou cursando a **Formação Plena em Análise e Ciência de Dados**, com foco em Python, R, Estatística e Machine Learning. Ao longo dessa jornada, desenvolvi projetos práticos com dados reais e criei um repositório para compartilhar minhas soluções, aprendizados e evolução na área.
 
