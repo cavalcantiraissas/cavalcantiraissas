@@ -83,7 +83,6 @@ Atualmente em andamento:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=cavalcantiraissas&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcantiraissas&layout=compact&langs_count=4&theme=dracula&hide_border=false" height="150" />
 </div>
 
@@ -98,10 +97,4 @@ Atualmente em andamento:
   <a href="https://www.linkedin.com/in/cavalcantiraissa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2MDF4Z21vaHd6Nm41MmJvNnRvZ3drazVoZTFuanF0MDg3MzJuaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" alt="gif final" />
 </div>
