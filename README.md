@@ -79,9 +79,8 @@ Atualmente em andamento:
 
 ---
 
-###  GitHub Stats
+###  GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://nirzak-streak-stats.vercel.app/?user=cavalcantiraissas&theme=github_dark&hide_border=false)<br/>
 
 ---
