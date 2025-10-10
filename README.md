@@ -81,10 +81,8 @@ Atualmente em andamento:
 
 ###  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcantiraissas&layout=compact&langs_count=4&theme=dracula&hide_border=false" height="150" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://nirzak-streak-stats.vercel.app/?user=cavalcantiraissas&theme=github_dark&hide_border=false)<br/>
 
 ---
 
