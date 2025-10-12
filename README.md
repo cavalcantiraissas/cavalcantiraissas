@@ -13,7 +13,7 @@ Atualmente, estou cursando a **Formação Plena em Análise e Ciência de Dados*
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <table>
   <tr>
