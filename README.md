@@ -2,14 +2,7 @@
 
 ###  Sobre mim 
 
-Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), entusiasta por dados, impacto social e tecnologia com propósito. Atuo na interseção entre ciência, inovação social e liderança jovem.
-
-Atualmente, estou cursando a **Formação Plena em Análise e Ciência de Dados**, com foco em Python, R, Estatística e Machine Learning. Ao longo dessa jornada, desenvolvi projetos práticos com dados reais e criei um repositório para compartilhar minhas soluções, aprendizados e evolução na área.
-
--  Projetos voltados à tecnologia para facilitar o cotidiano das pessoas  
--  Favoritos: Python · Pandas · Visualização de Dados · ETL  
--  Vivência internacional com trabalho voluntário e intercâmbio multicultural  
--  Habilidades-chave: Pensamento Analítico · Comunicação · Gestão de Projetos · Liderança  
+Olá! Sou Raissa Cavalcanti, estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), entusiasta por impacto social e tecnologia com propósito. Atuo na interseção entre ciência, inovação social e liderança jovem.
 
 ---
 
@@ -51,21 +44,6 @@ Atualmente, estou cursando a **Formação Plena em Análise e Ciência de Dados*
     </td>
   </tr>
 </table>
-
----
-
-###  Formação em Ciência de Dados
-
-Atualmente em andamento:
-
--  Estatística Descritiva · Probabilidade · Álgebra Linear  
--  Python, Pandas, ggplot2, dplyr  
--  Visualização de Dados · Regressão Linear e Não Linear  
--  Machine Learning: Árvores de Decisão, Random Forest, Redes Neurais  
--  Aplicações práticas com dados reais e problemas do mundo real  
-
- Repositório com todos os projetos e códigos:  
-👉 [`Formação Plena em Análise e Ciência de Dados`](https://github.com/cavalcantiraissas/Formacao-Plena_Analise-e-Ciencia-de-Dados)
 
 ---
 
