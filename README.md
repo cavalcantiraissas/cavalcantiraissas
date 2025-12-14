@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Raissa Cavalcanti 👋</h1>
+<h1 align="center">Olá! Eu sou a Raissa Cavalcanti </h1>
 <h3 align="center">Desenvolvimento de Software · Inovação Tecnológica</h3>
 
 ---
