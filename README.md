@@ -6,7 +6,7 @@
 ###  Sobre Mim
 
 <p align="justify">
-Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Mato Grosso (UFMT), com atuação na intersecção entre <strong>Desenvolvimento de Software</strong> e <strong>Inovação Tecnológica</strong>. Minha paixão é aplicar soluções de tecnologia para resolver problemas, especialmente em projetos com <strong>impacto social</strong> e propósito.
+Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Mato Grosso (UFMT), com atuação na intersecção entre <strong>Desenvolvimento de Software</strong> e <strong>Inovação Tecnológica</strong>. Minha paixão é aplicar soluções de tecnologia para resolver problemas, especialmente em projetos com <strong>impacto social</strong>.
 </p>
 
 ---
