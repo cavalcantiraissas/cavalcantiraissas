@@ -1,37 +1,43 @@
-<h1 align="center">Olá! Eu sou a Raissa Cavalcanti </h1>
-<h3 align="center">Desenvolvimento de Software · Inovação Tecnológica</h3>
+# Raissa Cavalcanti
+
+Estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), com foco em desenvolvimento back-end e banco de dados. Construo sistemas com intenção: cada repositório aqui representa uma etapa concreta da minha formação técnica, do fundamento ao stack profissional.
+
+Atualmente percorrendo um caminho estruturado em Back-End: Python, C, Golang, SQL e Docker, com interesse especial em projetos que conectam tecnologia a problemas reais.
 
 ---
 
-###  Sobre Mim
+## Stack
 
-<p align="justify">
-Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Mato Grosso (UFMT), com atuação na intersecção entre <strong>Desenvolvimento de Software</strong> e <strong>Inovação Tecnológica</strong>. Minha paixão é aplicar soluções de tecnologia para resolver problemas, especialmente em projetos com <strong>impacto social</strong>.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Estatísticas
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantiraissas&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
 </p>
 
 ---
 
-###  Contribuições
+## Repositórios
 
-![](https://nirzak-streak-stats.vercel.app/?user=cavalcantiraissas&theme=github_dark&hide_border=false)<br/>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph.svg">
-</picture>
+| Repositório | Descrição | Linguagem |
+|---|---|---|
+| [Back-End Developer Path](https://github.com/cavalcantiraissas/Back-End_Developer-Path) | Trilha estruturada de back-end: fundamentos em Python e C, sistemas escaláveis com Golang, SQL e Docker | Python · C · Go · SQL · Docker |
+| [Programação Python](https://github.com/cavalcantiraissas/Programacao-Python) | Estudo completo da linguagem com base no livro de Nilo Ney Menezes - de variáveis a sistemas web e GUI | Python |
+| [MySQL Workbench](https://github.com/cavalcantiraissas/MySQL-Workbench) | Projetos práticos em SQL: modelagem de dados, consultas e bancos de dados documentados | SQL · MySQL |
+| [Beecrownd](https://github.com/cavalcantiraissas/Beecrownd) | Resolução de desafios algorítmicos na plataforma Beecrowd para prática contínua de lógica | Python |
 
 ---
 
-###  Conecte-se comigo
+## Contato
 
-<div align="left">
-  <a href="mailto:cavalcanti.c.raissa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/cavalcantiraissa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavalcantiraissa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavalcanti.c.raissa@gmail.com)
