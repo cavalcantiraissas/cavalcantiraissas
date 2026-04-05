@@ -40,5 +40,3 @@ Atualmente percorrendo um caminho estruturado em back-end — Python, C, Golang,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavalcantiraissa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavalcanti.c.raissa@gmail.com)
-
-Recife, Brasil
