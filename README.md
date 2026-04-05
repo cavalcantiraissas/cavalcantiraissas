@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), com foco em desenvolvimento back-end e banco de dados. Construo sistemas com intenção: cada repositório aqui representa uma etapa concreta da minha formação técnica, do fundamento ao stack profissional.
 
-Atualmente percorrendo um caminho estruturado em Back-End: Python, C, Golang, SQL e Docker, com interesse especial em projetos que conectam tecnologia a problemas reais.
+Atualmente percorrendo um caminho estruturado em back-end — Python, C, Golang, SQL e Docker — com interesse especial em projetos que conectam tecnologia a problemas reais.
 
 ---
 
@@ -20,8 +20,7 @@ Atualmente percorrendo um caminho estruturado em Back-End: Python, C, Golang, SQ
 ## Estatísticas
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cavalcantiraissas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantiraissas&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://streak-stats.demolab.com?user=cavalcantiraissas&theme=github-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -31,7 +30,7 @@ Atualmente percorrendo um caminho estruturado em Back-End: Python, C, Golang, SQ
 | Repositório | Descrição | Linguagem |
 |---|---|---|
 | [Back-End Developer Path](https://github.com/cavalcantiraissas/Back-End_Developer-Path) | Trilha estruturada de back-end: fundamentos em Python e C, sistemas escaláveis com Golang, SQL e Docker | Python · C · Go · SQL · Docker |
-| [Programação Python](https://github.com/cavalcantiraissas/Programacao-Python) | Estudo completo da linguagem com base no livro de Nilo Ney Menezes - de variáveis a sistemas web e GUI | Python |
+| [Programação Python](https://github.com/cavalcantiraissas/Programacao-Python) | Estudo completo da linguagem com base no livro de Nilo Ney Menezes — de variáveis a sistemas web e GUI | Python |
 | [MySQL Workbench](https://github.com/cavalcantiraissas/MySQL-Workbench) | Projetos práticos em SQL: modelagem de dados, consultas e bancos de dados documentados | SQL · MySQL |
 | [Beecrownd](https://github.com/cavalcantiraissas/Beecrownd) | Resolução de desafios algorítmicos na plataforma Beecrowd para prática contínua de lógica | Python |
 
@@ -41,3 +40,5 @@ Atualmente percorrendo um caminho estruturado em Back-End: Python, C, Golang, SQ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavalcantiraissa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavalcanti.c.raissa@gmail.com)
+
+Recife, Brasil
