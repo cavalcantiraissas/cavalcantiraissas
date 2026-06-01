@@ -30,9 +30,6 @@ Atualmente percorrendo um caminho estruturado em back-end: Python, C, Golang, SQ
 | Repositório | Descrição | Linguagem |
 |---|---|---|
 | [Back-End Developer Path](https://github.com/cavalcantiraissas/Back-End_Developer-Path) | Trilha estruturada de back-end: fundamentos em Python e C, sistemas escaláveis com Golang, SQL e Docker | Python · C · Go · SQL · Docker |
-| [Programação Python](https://github.com/cavalcantiraissas/Programacao-Python) | Estudo completo da linguagem com base no livro de Nilo Ney Menezes — de variáveis a sistemas web e GUI | Python |
-| [MySQL Workbench](https://github.com/cavalcantiraissas/MySQL-Workbench) | Projetos práticos em SQL: modelagem de dados, consultas e bancos de dados documentados | SQL · MySQL |
-| [Beecrownd](https://github.com/cavalcantiraissas/Beecrownd) | Resolução de desafios algorítmicos na plataforma Beecrowd para prática contínua de lógica | Python |
 
 ---
 
