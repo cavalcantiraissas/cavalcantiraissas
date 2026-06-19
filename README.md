@@ -25,14 +25,6 @@ Atualmente percorrendo um caminho estruturado em back-end: Python, C, Golang, SQ
 
 ---
 
-## Repositórios
-
-| Repositório | Descrição | Linguagem |
-|---|---|---|
-| [Back-End Developer Path](https://github.com/cavalcantiraissas/Back-End_Developer-Path) | Trilha estruturada de back-end: fundamentos em Python e C, sistemas escaláveis com Golang, SQL e Docker | Python · C · Go · SQL · Docker |
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavalcantiraissa/)
