@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na Universidade Federal de Mato Grosso (UFMT), com foco em desenvolvimento Back-End e Banco de Dados. Construo sistemas com intenção: cada repositório aqui representa uma etapa concreta da minha formação técnica, do fundamento ao stack profissional.
 
-Atualmente percorrendo um caminho estruturado em back-end: Python, C, Golang, SQL e Docker - com interesse especial em projetos que conectam tecnologia a problemas reais.
+Atualmente percorrendo um caminho estruturado em back-end: Python, C, SQL e Docker - com interesse especial em projetos que conectam tecnologia a problemas reais.
 
 ---
 
