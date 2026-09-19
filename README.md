@@ -15,16 +15,6 @@ Atualmente percorrendo um caminho estruturado em back-end: Python, C, SQL e Dock
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## Estatísticas
-
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=cavalcantiraissas&theme=github-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavalcantiraissa/)
