@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d366b,100:2a78d6&height=180&section=header&text=Raissa%20Cavalcanti&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20UFMT&descAlignY=58&descSize=18" width="100%" alt="Raissa Cavalcanti · Ciência da Computação · UFMT"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2A78D6&center=true&vCenter=true&width=620&lines=Desenvolvedora+Back-End+%26+Dados;Python+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+IA;Do+compilador+ao+RAG%3A+construindo+com+inten%C3%A7%C3%A3o" alt="Desenvolvedora Back-End e Dados · Python, SQL, Docker e IA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2A78D6&center=true&vCenter=true&width=620&lines=Desenvolvedora+Back-End+%26+Dados;Python+%C2%B7+SQL+%C2%B7+Docker+%C2%B7+IA;" alt="Desenvolvedora Back-End e Dados · Python, SQL, Docker e IA"/>
 
 <a href="https://www.linkedin.com/in/cavalcantiraissa/"><img src="https://img.shields.io/badge/LinkedIn-cavalcantiraissa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:cavalcanti.c.raissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-fale_comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<img src="https://img.shields.io/badge/Barra_do_Gar%C3%A7as-MT-2a78d6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barra do Garças, MT"/>
 
@@ -34,7 +34,6 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
