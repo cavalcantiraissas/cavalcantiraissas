@@ -14,11 +14,6 @@
 
 Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (UFMT)**, com foco em **desenvolvimento back-end, dados e banco de dados**. Construo sistemas com intenção: cada repositório aqui representa uma etapa concreta da minha formação técnica, do fundamento ao stack profissional.
 
-- 🛠️ **Back-end e dados:** Python, SQL e Docker, com projetos que conectam tecnologia a problemas reais.
-- 🤖 **IA aplicada:** RAG e geração estruturada com a API do Gemini, sempre com a parte crítica (cálculos, regras) feita por código testável.
-- ⚙️ **Fundamentos:** compiladores, sistemas operacionais, estruturas de dados e programação bare-metal em RISC-V.
-- 📊 **Análise de dados:** pandas, estatística e visualização para transformar bases em evidências.
-
 ## Tecnologias
 
 <table align="center">
@@ -30,7 +25,7 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&perline=5" alt="Python, C, C++, Java e JavaScript"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite&perline=4" alt="Flask, PostgreSQL, MySQL e SQLite"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,linux,bash&perline=4" alt="Docker, Git, Linux e Bash"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,bash&perline=3" alt="Docker, Git e Bash"/></td>
   </tr>
 </table>
 
@@ -103,21 +98,6 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
   </tr>
 </table>
 
-<details>
-<summary><b>Destaques dentro do repositório da graduação</b></summary>
-
-<br>
-
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| [Compilador de C simplificado](https://github.com/cavalcantiraissas/Ciencia-da-Computacao_UFMT/tree/main/Compiladores) | Construído em cinco etapas, gera assembly x86-64 para Linux, macOS e Windows | C, NASM |
-| [vsfs](https://github.com/cavalcantiraissas/Ciencia-da-Computacao_UFMT/tree/main/Sistemas-OperacionaisII) | Sistema de arquivos do OSTEP montado com FUSE, com `fsck` próprio | Python, FUSE |
-| [opzip](https://github.com/cavalcantiraissas/Ciencia-da-Computacao_UFMT/tree/main/Sistemas-OperacionaisI/opzip) | Compressor paralelo com escrita ordenada e *speedup* medido | C, pthreads |
-| [Relógios bare-metal](https://github.com/cavalcantiraissas/Ciencia-da-Computacao_UFMT/tree/main/Organizacao-computadores) | Relógio digital sem sistema operacional, movido por interrupções | RISC-V, QEMU |
-| [FrotaGesta](https://github.com/cavalcantiraissas/Ciencia-da-Computacao_UFMT/tree/main/Lab_Banco-Dados/frotagesta) | Controle de frota com gatilhos, procedure transacional e interface desktop | PostgreSQL, Python |
-
-</details>
-
 ## Números
 
 <p align="center">
@@ -135,15 +115,6 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
 </p>
 
 <p align="center">Gerados por <a href="scripts/gerar_graficos.py"><code>gerar_graficos.py</code></a> com a API do GitHub · atualizados todo dia · só repositórios públicos</p>
-
-## Contribuições
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/cavalcantiraissas/cavalcantiraissas/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições animado no estilo Pac-Man" width="100%">
-</picture>
-</p>
 
 <div align="center">
 
