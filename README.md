@@ -14,7 +14,7 @@
 
 Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (UFMT)**, com foco em **desenvolvimento back-end, dados e banco de dados**.
 
-## Projetos com IA
+## Projetos
 
 - **[Golpe ou Não?](https://github.com/cavalcantiraissas/golpe-ou-nao)**: diz se uma mensagem é golpe abrindo o Pix, o boleto e o link para mostrar quem recebe o dinheiro de verdade. [Demo](https://golpe-ou-nao.streamlit.app/)
 - **[CV Match](https://github.com/cavalcantiraissas/cv-match)**: compara um currículo em PDF com a descrição de uma vaga e explica o quanto os dois combinam. [Código](https://github.com/cavalcantiraissas/cv-match)
