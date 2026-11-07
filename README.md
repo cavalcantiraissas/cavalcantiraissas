@@ -12,7 +12,14 @@
 
 ## Sobre mim
 
-Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (UFMT)**, com foco em **desenvolvimento back-end, dados e banco de dados**. Construo sistemas com intenção: cada repositório aqui representa uma etapa concreta da minha formação técnica, do fundamento ao stack profissional.
+Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (UFMT)**, com foco em **desenvolvimento back-end, dados e banco de dados**.
+
+## Projetos com IA
+
+- **[Golpe ou Não?](https://github.com/cavalcantiraissas/golpe-ou-nao)**: diz se uma mensagem é golpe abrindo o Pix, o boleto e o link para mostrar quem recebe o dinheiro de verdade. [Demo](https://golpe-ou-nao.streamlit.app/)
+- **[CV Match](https://github.com/cavalcantiraissas/cv-match)**: compara um currículo em PDF com a descrição de uma vaga e explica o quanto os dois combinam. [Código](https://github.com/cavalcantiraissas/cv-match)
+- **[WBS Generator](https://github.com/cavalcantiraissas/wbs-generator-gemini)**: gera a EAP de um projeto a partir de uma frase, com PERT, caminho crítico e Gantt. [Demo](https://wbs-generator.streamlit.app/)
+- **[RAG Gemini Minimalista](https://github.com/cavalcantiraissas/rag-gemini-minimalista)**: perguntas e respostas sobre os seus documentos, com as fontes de cada resposta. [Demo](https://rag-gemini-mini.streamlit.app/)
 
 ## Tecnologias
 
@@ -43,18 +50,36 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/cavalcantiraissas/rag-gemini-minimalista">
+      <a href="https://github.com/cavalcantiraissas/golpe-ou-nao">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/repo-rag-gemini-minimalista-escuro.svg">
-          <img src="assets/repo-rag-gemini-minimalista-claro.svg" alt="rag-gemini-minimalista: perguntas e respostas sobre seus documentos com RAG e Gemini" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/repo-golpe-ou-nao-escuro.svg">
+          <img src="assets/repo-golpe-ou-nao-claro.svg" alt="golpe-ou-nao: diz se uma mensagem é golpe abrindo o Pix, o boleto e o link" width="100%">
         </picture>
       </a>
     </td>
+    <td width="50%">
+      <a href="https://github.com/cavalcantiraissas/cv-match">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/repo-cv-match-escuro.svg">
+          <img src="assets/repo-cv-match-claro.svg" alt="cv-match: compara um currículo com a descrição de uma vaga, de forma explicável" width="100%">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://github.com/cavalcantiraissas/wbs-generator-gemini">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/repo-wbs-generator-gemini-escuro.svg">
           <img src="assets/repo-wbs-generator-gemini-claro.svg" alt="wbs-generator-gemini: EAP de um projeto a partir de uma frase, com PERT, caminho crítico e Gantt" width="100%">
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cavalcantiraissas/rag-gemini-minimalista">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/repo-rag-gemini-minimalista-escuro.svg">
+          <img src="assets/repo-rag-gemini-minimalista-claro.svg" alt="rag-gemini-minimalista: perguntas e respostas sobre seus documentos com RAG e Gemini" width="100%">
         </picture>
       </a>
     </td>
@@ -86,14 +111,7 @@ Estudante de Ciência da Computação na **Universidade Federal de Mato Grosso (
         </picture>
       </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/cavalcantiraissas/Automatizando_com_Python">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/repo-Automatizando_com_Python-escuro.svg">
-          <img src="assets/repo-Automatizando_com_Python-claro.svg" alt="Automatizando_com_Python: scripts e automações para o dia a dia" width="100%">
-        </picture>
-      </a>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 

@@ -27,12 +27,13 @@ SAIDA = Path(__file__).resolve().parent.parent / "assets"
 
 # Repositórios com cartão no README, na ordem em que aparecem.
 DESTAQUES = [
-    "rag-gemini-minimalista",
+    "golpe-ou-nao",
+    "cv-match",
     "wbs-generator-gemini",
+    "rag-gemini-minimalista",
     "Ciencia-da-Computacao_UFMT",
     "novashop_case",
     "Dados_Ambientais_INPP",
-    "Automatizando_com_Python",
 ]
 # O próprio repositório do perfil não entra nas estatísticas de linguagens.
 IGNORAR = {USUARIO}
